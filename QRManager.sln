@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRManager", "QRManager\QRManager.csproj", "{6479E959-EE1D-421C-A194-EE7F24E23A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6479E959-EE1D-421C-A194-EE7F24E23A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6479E959-EE1D-421C-A194-EE7F24E23A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6479E959-EE1D-421C-A194-EE7F24E23A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6479E959-EE1D-421C-A194-EE7F24E23A91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FD8FF44-CE4D-41ED-A40D-54A5BE8704F7}
+	EndGlobalSection
+EndGlobal
